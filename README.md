@@ -10,7 +10,7 @@ Note : This Application is Created using Vite . Not with npx create-react-app et
 To use the Awesome contact management application, follow these steps:
 
 1. Clone this repository
-2. cd taiyoass
+2. cd taiyoai-assignment
 3. npm i 
 4. npm start
 
