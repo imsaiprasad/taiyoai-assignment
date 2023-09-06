@@ -1,0 +1,21 @@
+.mt35{
+    padding: 35px;
+}
+
+@media screen and (max-width: 720px) {
+
+    .mt35{
+        padding: clamp(5px, 20px, 30px);
+    }
+    
+}
+
+.leaflet-container{
+    width: 70vw;
+    height: 70vh;
+}
+
+
+.mouseEffect{
+    cursor: pointer;
+}
